@@ -4,7 +4,7 @@
 ### HyperText Transfer Protocol  
 
 - HTTP는 주로 HTML 같은 문서를 주고받는 데에 쓰인다.  
-- TCP와 UDP를 사용한다.
+- [TCP와 UDP](https://github.com/anohk/cs-study/blob/master/TCP-IP.md)를 사용한다.
 
 
 <img src="img/http.png" width="650">
