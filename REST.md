@@ -48,7 +48,8 @@ HTTP가 제공하는 GET/PUT/POST/DELETE 메서드를 이용해 서비스를 제
 PUT은 해당 자원 전체를 교체하는 의미를 갖고있다. 자원의 일부만 변경하기 위해서 **PATCH** 라는 메서드를 사용한다. 이는 update 이벤트에서 PUT 메서드보다 의미적으로 적합하다는 평을 받고있다.
 
 ### 컴포넌트 중계
-REST server가 Client와 End server의 중간에서 중계의 역할을 할 수 있기 때문에 Client가 End server의 위치를 몰라도 서비스를 이용할 수 있다. 
+REST server가 Client와 End server의 중간에서 중계의 역할을 할 수 있기 때문에 Client가 End server의 위치를 몰라도 서비스를 이용할 수 있다.  
+
 <img src="img/rest-trans.png" width="450">
 
 ## 3. 장점
